@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](/github-metrics.svg)
 <!--
 **edhar-rybak/edhar-rybak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
